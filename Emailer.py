@@ -1,4 +1,4 @@
-#This program is intended as a template/refernced to setup automatic emailing with Python
+#This program is intended as a template/referenced to setup automatic emailing with Python
 
 import smtplib, ssl
 import email
