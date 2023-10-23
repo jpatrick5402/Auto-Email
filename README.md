@@ -2,8 +2,8 @@
 
 A repository with code to assist with emails
 
-I intend to build a python module that can be imported to other projects that facilitates easy emailing
+This project takes all of the difficult of writing an email to send out, and simplifies it into one singular function to be implemented in other programs.
 
-This project will be written in python
+<h2>Installation</h2>
 
-This project will be completed once I feel that the module is robust enough to accommodate most email functions while retaining an easy-to-use methodology
+To install the program, simply Download the "Emailer.py" file, and import it into your python code
